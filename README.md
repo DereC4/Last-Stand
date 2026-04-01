@@ -15,5 +15,14 @@
 # Last-Stand
 Turbowarp packaged version of a Scratch game, Last Stand: Sci-Fi Crossover (Star Wars), originally developed for Fall 2021 AP Computer Science Principles course taught by Felicia Castillo.
 
- https://www.derekchen.dev/projects/venator-escape
+https://www.derekchen.dev/projects/venator-escape
+
+## Credits
+Derek Chen, Harsh Dave
+
+Clone sprites from https://www.spriters-resource.com/game_boy_advance/starwarsep3/sheet/8626/
+
+Vader sprites from https://www.spriters-resource.com/snes/superstarwars2theempirestrikesback/sheet/52090/
+
  
+<img width="1353" height="1004" alt="image" src="https://github.com/user-attachments/assets/26e7ab7f-376f-4045-8f30-d9e14e2a0873" />
